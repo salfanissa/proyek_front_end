@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Salfanissa",
+      "email": "salfa@gmail.com",
+      "NIM": "2100016087",
+      "id": 1
+    },
+    {
+      "name": "Adelia",
+      "email": "adel@gmail.com",
+      "NIM": "2100016099",
+      "id": 2
+    },
+    {
+      "name": "Salfa",
+      "email": "salfansa93@gmail.com",
+      "NIM": "2100016087",
+      "id": 3
+    },
+    {
+      "name": "Raihan",
+      "email": "raihan@gmail.com",
+      "NIM": "2100016072",
+      "id": 4
+    },
+    {
+      "name": "Wulan",
+      "email": "wulan@gmail.com",
+      "NIM": "21836128412",
+      "id": 5
+    }
+  ]
+}
